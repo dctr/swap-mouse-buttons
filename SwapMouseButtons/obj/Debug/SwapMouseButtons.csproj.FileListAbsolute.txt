@@ -1,0 +1,5 @@
+c:\users\dchrist\documents\visual studio 2015\Projects\SwapMouseButtons\SwapMouseButtons\bin\Debug\SwapMouseButtons.exe.config
+c:\users\dchrist\documents\visual studio 2015\Projects\SwapMouseButtons\SwapMouseButtons\bin\Debug\SwapMouseButtons.exe
+c:\users\dchrist\documents\visual studio 2015\Projects\SwapMouseButtons\SwapMouseButtons\bin\Debug\SwapMouseButtons.pdb
+c:\users\dchrist\documents\visual studio 2015\Projects\SwapMouseButtons\SwapMouseButtons\obj\Debug\SwapMouseButtons.exe
+c:\users\dchrist\documents\visual studio 2015\Projects\SwapMouseButtons\SwapMouseButtons\obj\Debug\SwapMouseButtons.pdb
